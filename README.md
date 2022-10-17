@@ -6,7 +6,7 @@
 * <code>€</code>&nbsp;`U+20AC` <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>4</kbd> [Euro Sign](https://www.compart.com/en/unicode/U+20AC), (Alt + 0128)
 * <code>₴</code>&nbsp;`U+20B4` <kbd>Shift</kbd> + <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>4</kbd> [Hryvnia Sign](https://www.compart.com/en/unicode/U+20B4)
 * <code>°</code>&nbsp;`U+00B0` <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>%</kbd> [Degree Sign](https://www.compart.com/en/unicode/U+00B0)
-* <code>×</code>&nbsp;`U+00D7` <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>8</kbd> [Multiplication Sign](https://www.compart.com/en/unicode/U+00D7)
+* <code>×</code>&nbsp;`U+00D7` <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>*</kbd> [Multiplication Sign](https://www.compart.com/en/unicode/U+00D7)
 * <code>≠</code>&nbsp;`U+2260` <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>=</kbd> [Not Equal To](https://www.compart.com/en/unicode/U+2260)
 * <code>μ</code>&nbsp;`U+03BC` <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>m</kbd> [Greek Small Letter Mu](https://www.compart.com/en/unicode/U+03BC) (as in microseconds)
 * <code> </code>&nbsp;`U+202F` <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>'</kbd> [Narrow No-Break Space](https://www.compart.com/en/unicode/U+202F), used as [decimal separator](https://en.wikipedia.org/wiki/Decimal_separator#Unicode_characters) (e. g. 10 000 000)
@@ -30,5 +30,7 @@
 * Reboot
 
 # TODO
-* <code></code> [Diameter Sign](https://www.compart.com/en/unicode/U+2300)
-* <code></code> [Word Joiner](https://www.compart.com/en/unicode/U+2060)
+* <code>⌀</code> [Diameter Sign](https://www.compart.com/en/unicode/U+2300)
+* [Word Joiner](https://www.compart.com/en/unicode/U+2060)
+* [Em Dash](https://www.compart.com/en/unicode/U+2014)
+* [Medium Mathematical Space](https://www.compart.com/en/unicode/U+205F)

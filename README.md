@@ -1,2 +1,1 @@
-# us-uni
-US (with Unicode) keyboard layout
+#US (with Unicode) keyboard layout

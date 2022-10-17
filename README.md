@@ -24,3 +24,7 @@
 <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>Ctrl</kbd> (or <kbd>Shift</kbd> + <kbd>R Alt</kbd>)  
 
 ![AltGr](us_uniShftAltGr.jpg)
+
+# Installation
+* Run `setup.exe` from the release archive
+* Reboot

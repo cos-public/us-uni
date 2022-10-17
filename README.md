@@ -30,5 +30,5 @@
 * Reboot
 
 # TODO
-* <code>⌀</code> [Diameter Sign](https://www.compart.com/en/unicode/U+2300)
+* <code></code> [Diameter Sign](https://www.compart.com/en/unicode/U+2300)
 * <code></code> [Word Joiner](https://www.compart.com/en/unicode/U+2060)
